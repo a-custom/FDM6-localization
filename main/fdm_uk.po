@@ -2413,7 +2413,7 @@ msgstr "Додатки..."
 
 msgctxt "MainMenu|"
 msgid "Preferences..."
-msgstr "Вподобання..."
+msgstr "Налаштування..."
 
 msgctxt "MainMenu|"
 msgid "Contact Support"
@@ -2756,7 +2756,7 @@ msgstr "Перевірити оновлення..."
 
 msgctxt "NativeMenuBar|"
 msgid "Preferences..."
-msgstr "Вподобання..."
+msgstr "Налаштування..."
 
 msgctxt "NativeMenuBar|"
 msgid "Quit"
@@ -4083,7 +4083,7 @@ msgstr ". Все одно закрити?"
 
 msgctxt "SettingsPage|"
 msgid "Preferences"
-msgstr "Вподобання"
+msgstr "Налаштування"
 
 msgctxt "SettingsPage|"
 msgid "General"
